@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TestingJar.jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="01_CheckersGame.jar">
+      <element id="module-output" name="01_CheckersGame" />
+    </root>
+  </artifact>
+</component>
